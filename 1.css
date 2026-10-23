@@ -1,0 +1,28 @@
+body {
+  background-color: #101020;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+header {
+  background-color: #00ccaa;
+  padding: 20px;
+  color: black;
+}
+section {
+  background-color: #222244;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
+h2 { color: #00ffcc; }
+table {
+  width: 80%;
+  margin: auto;
+  border-collapse: collapse;
+}
+th, td {
+  border: 1px solid white;
+  padding: 10px;
+}
+tr:hover { background-color: #444466; }
