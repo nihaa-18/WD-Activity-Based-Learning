@@ -1,0 +1,20 @@
+body {
+  font-family: Arial;
+  background-color: #f0fff0;
+  text-align: center;
+}
+h1 { color: green; }
+.card {
+  background: white;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 200px;
+}
+button {
+  background: green;
+  color: white;
+  padding: 10px;
+  border: none;
+}
